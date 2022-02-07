@@ -1,6 +1,5 @@
 # WeatherApp
 
-Try it : https://weather-app-c6cd7.web.app
 
 ## Development server
 
